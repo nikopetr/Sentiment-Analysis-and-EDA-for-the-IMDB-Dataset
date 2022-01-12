@@ -19,7 +19,7 @@ The goal of this work was to go through a complete Data Science process, in orde
 The main part of the work focuses on the exploration and study of different techniques which are used for sentiment analysis. In addition, the work utilizes and compares different approaches for classification tasks in Natural Language Processing.
 
 ### Methodology
-The methodology of the work is illustrated in the scheme below.
+An abstract methodology scheme of the work is illustrated in the following Figure.
 
 <p align="center">
   <img src="https://github.com/nikopetr/EDA-and-Sentiment-Analysis-on-IMDB-Dataset/blob/main/methodology scheme.png" width="700" height="500"/>
