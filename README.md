@@ -1,7 +1,7 @@
 # EDA-and-Sentiment-Analysis-on IMDB-Dataset
 
-<p align=" enter">
-  <img src="https://github.com/nikopetr/EDA-and-Sentiment-Analysis-on-IMDB-Dataset/blob/main/tv-gcd05f2dbf_1920.jpg" width="1000" height="500"/>
+<p align="center">
+  <img src="https://github.com/nikopetr/EDA-and-Sentiment-Analysis-on-IMDB-Dataset/blob/main/tv-gcd05f2dbf_1920.jpg" width="800" height="400"/>
 </p>
 
 The main part of the work focuses on the exploration and study of different techniques which are used for sentiment analysis on the IMDB movie review dataset. In addition, the work utilizes and compares different approaches for classification tasks in Natural Language Processing.
@@ -10,7 +10,7 @@ The main part of the work focuses on the exploration and study of different tech
 The complete text and analysis of the work is located in the **.pdf ** file.The code of the project is located in the **XXXXX** files.
 
 
-**Authors**: Nikolas Petrou, MSc in Data Science
+**Author**: Nikolas Petrou, MSc in Data Science
 
 ## Overview
 
@@ -21,8 +21,8 @@ The main part of the work focuses on the exploration and study of different tech
 ### Methodology
 The methodology of the work is illustrated in the scheme below.
 
-<p align=" enter">
-  <img src="https://github.com/nikopetr/EDA-and-Sentiment-Analysis-on-IMDB-Dataset/blob/main/methodology scheme.png" width="1000" height="500"/>
+<p align="center">
+  <img src="https://github.com/nikopetr/EDA-and-Sentiment-Analysis-on-IMDB-Dataset/blob/main/methodology scheme.png" width="700" height="300"/>
 </p>
 
 Summarizing, firstly the initial questions were set in respect to the used dataset. Subsequentially, the data scrapping and data collection were performed. In addition, after the data preprocessing steps were performed, different data analytics and analysis were ,employed in order to better understand the data insights. Finally, during the final analysis, different methodologies and models were utilized in order to classify the textual data based on the sentiment. It is crucial to mention that the whole processed followed a cyclical scheme.
