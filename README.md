@@ -1,4 +1,4 @@
-# EDA-and-Sentiment-Analysis-on IMDB-Dataset
+# EDA and Sentiment-Analysis on the IMDB Movie Review Dataset
 
 <p align="center">
   <img src="https://github.com/nikopetr/EDA-and-Sentiment-Analysis-on-IMDB-Dataset/blob/main/tv-gcd05f2dbf_1920.jpg" width="800" height="400"/>
