@@ -7,18 +7,27 @@
 The main part of the work focuses on the exploration and study of different techniques which are used for sentiment analysis on the IMDB movie review dataset. In addition, the work utilizes and compares different approaches for classification tasks in Natural Language Processing.
 
 
-The complete text and analysis of the work is located in the **.pdf ** file.The code of the project is located in the **XXXXX** files.
-
-
 **Author**: Nikolas Petrou, MSc in Data Science
+
+
+### Technical-Report and Code Availability
+
+- The complete text and analysis of the work is available and located in **EDA-and-Sentiment-Analysis-on IMDB-Dataset.pdf** file
+- The implementation and code of the project is located in the **Implementation-Python Files** folder.
+
 
 ## Overview
 
 The goal of this work was to go through a complete Data Science process, in order to answer questions about a chosen topic. The process involves the data acquirement, design of the visualization, data analysis and results. 
 
-The main part of the work focuses on the exploration and study of different techniques which are used for sentiment analysis. In addition, the work utilizes and compares different approaches for classification tasks in Natural Language Processing.
+The main part of the work focuses on the exploration and study of different approaches which are used for Sentiment Analysis (e.g. Bag of Words, TF-IDF, Word Embeddings). In addition, the work utilizes and compares different classification algorithms for Sentiment Analysis tasks in Natural Language Processing (e.g. Tree Aglrotihms, Linear Models and Support Vector Machines).
 
-### Methodology
+## Dataset
+For this work, a large dataset which consists of movie reviews was used. Specifically, the publicly available Internet Movie Database (IMDB) review dataset
+
+The data can be obtained from [Kaggle](https://www.kaggle.com/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews) or direcetly from [Stanford](https://ai.stanford.edu/)
+
+## Methodology
 An abstract methodology scheme of the work is illustrated in the following Figure.
 
 <p align="center">
