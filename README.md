@@ -4,8 +4,7 @@
   <img src="https://github.com/nikopetr/EDA-and-Sentiment-Analysis-on-IMDB-Dataset/blob/main/tv-gcd05f2dbf_1920.jpg" width="800" height="400"/>
 </p>
 
-The main part of the work focuses on the exploration and study of different techniques which are used for sentiment analysis on the IMDB movie review dataset. In addition, the work utilizes and compares different approaches for classification tasks in Natural Language Processing.
-
+The main part of the work focuses on the exploration and study of different approaches which are used for Sentiment Analysis (e.g. Bag of Words, TF-IDF, Word Embeddings). In addition, the work utilizes and compares different classification algorithms for Sentiment Analysis tasks in Natural Language Processing (e.g. Tree based Algorithms, Linear Models and Support Vector Machines).
 
 **Author**: Nikolas Petrou, MSc in Data Science
 
@@ -18,9 +17,7 @@ The main part of the work focuses on the exploration and study of different tech
 
 ## Overview
 
-The goal of this work was to go through a complete Data Science process, in order to answer questions about a chosen topic. The process involves the data acquirement, design of the visualization, data analysis and results. 
-
-The main part of the work focuses on the exploration and study of different approaches which are used for Sentiment Analysis (e.g. Bag of Words, TF-IDF, Word Embeddings). In addition, the work utilizes and compares different classification algorithms for Sentiment Analysis tasks in Natural Language Processing (e.g. Tree Aglrotihms, Linear Models and Support Vector Machines).
+The goal of this work focuses on the exploration and study of different approaches which are used for Sentiment Analysis (e.g. Bag of Words, TF-IDF, Word Embeddings). In addition, the work utilizes and compares different classification algorithms for Sentiment Analysis tasks in Natural Language Processing (e.g. Tree based Algorithms, Linear Models and Support Vector Machines).
 
 ## Dataset
 For this work, a large dataset which consists of movie reviews was used. Specifically, the publicly available Internet Movie Database (IMDB) review dataset
