@@ -22,7 +22,7 @@ The main part of the work focuses on the exploration and study of different tech
 The methodology of the work is illustrated in the scheme below.
 
 <p align="center">
-  <img src="https://github.com/nikopetr/EDA-and-Sentiment-Analysis-on-IMDB-Dataset/blob/main/methodology scheme.png" width="700" height="300"/>
+  <img src="https://github.com/nikopetr/EDA-and-Sentiment-Analysis-on-IMDB-Dataset/blob/main/methodology scheme.png" width="700" height="500"/>
 </p>
 
 Summarizing, firstly the initial questions were set in respect to the used dataset. Subsequentially, the data scrapping and data collection were performed. In addition, after the data preprocessing steps were performed, different data analytics and analysis were ,employed in order to better understand the data insights. Finally, during the final analysis, different methodologies and models were utilized in order to classify the textual data based on the sentiment. It is crucial to mention that the whole processed followed a cyclical scheme.
