@@ -11,8 +11,8 @@ The main part of the work focuses on the exploration and study of different appr
 
 ### Technical-Report and Code Availability
 
-- The complete text and analysis of the work is available and located in **EDA-and-Sentiment-Analysis-on IMDB-Dataset.pdf** file
-- The implementation and code of the project is located in the **Implementation-Python Files** folder.
+- The technical report and analysis of the work is available and located in **EDA-and-Sentiment-Analysis-on IMDB-Dataset.pdf** file
+- The implementation and code of the project is located in the **Implementation-Python Files** folder
 
 
 ## Overview
